@@ -1,0 +1,4 @@
+interface:
+  display_name: "UV Private CLI"
+  short_description: "Make private uv CLIs globally runnable"
+  default_prompt: "Use $uv-private-cli to make this private Python uv CLI installable and runnable globally."
